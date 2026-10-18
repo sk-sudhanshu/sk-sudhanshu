@@ -12,9 +12,6 @@ Email Me 👉 ✉️ **kumarsudhanshu2880@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Sudhanshu babre.
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sk-sudhanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_babre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/⚜️sudhanshu-kumar⚜️-150bb1384) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sudhanshu_babre) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sudhanshu kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarsudhanshu2880@gmail.com) 
 
@@ -32,15 +29,18 @@ Email Me 👉 ✉️ **kumarsudhanshu2880@gmail.com** For Collaboration/Project 
 ![](https://streak-stats.demolab.com/?user=sk-sudhanshu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sk-sudhanshu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sk-sudhanshu&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-sudhanshu-babre.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sk-sudhanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sk-sudhanshu&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-[![](https://komarev.com/ghpvc/?username=sk-sudhanshu&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://komarev.com/ghpvc/?username=sk-sudhanshu&icon=10&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sudhanshu kumar.) 
